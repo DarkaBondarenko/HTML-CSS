@@ -1,1 +1,1 @@
-This is my test project for HTML&CSS course.
+This is my test project for HTML & CSS course.
